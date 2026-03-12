@@ -49,7 +49,7 @@ cd python-calculator
 Run the program:
 
 ```bash
-python calc.py
+python calculator.py
 ```
 
 ---
