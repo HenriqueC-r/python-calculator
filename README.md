@@ -8,7 +8,7 @@ This project was created as a practice project to learn GUI development and basi
 
 ## 📸 Preview
 
-![Calculator Screenshot](images/screenshot.png)
+![Calculator Screenshot](Calculadora.png)
 
 ---
 
